@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "name": "harish",
+            "email": "hhh@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "111",
+            "report": "Medical Report:\n\nIt appears the patient has hypertension.\n\nPreventative Measures:\n\n- Proper management is crucial to prevent potential eye complications.Monitor blood pressure regularly and follow treatment plans prescribed by your doctor,\n- Adopt a heart-healthy diet low in sodium and high in fruits and vegetables,\n- Engage in regular physical activity to help lower blood pressure\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor blood pressure control,\n- Inform your eye specialist about hypertension diagnosis for comprehensive care",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor blood pressure control",
+                "Inform your eye specialist about hypertension diagnosis for comprehensive care"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "jaswin",
+            "email": "jjj@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "222",
+            "report": "Medical Report:\n\nThe patient appears to have diabetes. It's crucial to manage blood sugar levels effectively to prevent complications, including diabetic retinopathy.\n\nPreventative Measures:\n\n- Monitor blood sugar levels regularly as advised by your doctor,\n- Follow a diabetic-friendly diet rich in fruits, vegetables, and whole grains,\n- Engage in regular physical activity to improve insulin sensitivity\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor diabetes management,\n- Consult with an ophthalmologist to assess eye health and discuss preventive measures",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor diabetes management",
+                "Consult with an ophthalmologist to assess eye health and discuss preventive measures"
+            ],
+            "Pupil": null
+        }
+    ]
+}
